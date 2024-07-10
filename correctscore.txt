@@ -1,0 +1,31 @@
+Privacy Policy for CorrectScore
+
+Effective Date: 07/10/2024
+
+1. Introduction
+
+Welcome to CorrectScore. We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we handle your data when you use our app, CorrectScore.
+
+2. Data Collection
+
+CorrectScore does not collect any personal data from users. We do not require you to provide any personal information to access or use our app.
+
+3. Subscription Management
+
+Our subscriptions are handled and managed through Google Pay. When you subscribe to our service, Google Pay may collect personal information from you, such as payment details and contact information. Please refer to Google Pay’s Privacy Policy for more details on how your information is handled by them.
+
+4. Third-Party Services
+
+CorrectScore may contain links to third-party services, including Google Pay. We do not have control over, and are not responsible for, the privacy practices of these third parties. We encourage you to review the privacy policies of any third-party services you access.
+
+5. Security
+
+While we do not collect personal data, we take the security of our app seriously. We implement appropriate security measures to protect against unauthorized access, alteration, disclosure, or destruction of any data related to our app.
+
+6. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at asitwas5173@gmail.com.
