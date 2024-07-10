@@ -1,0 +1,44 @@
+Privacy Policy for FixedMatches
+
+Effective Date: 10/07/2024
+
+At FixedMatches, we are committed to protecting your privacy. This Privacy Policy explains how we handle your personal information when you use our app, FixedMatches, which provides betting tips through subscriptions. Please read this policy carefully to understand our practices regarding your personal information.
+
+1. Information We Collect
+No Personal Data Collection
+
+FixedMatches does not collect, store, or process any personal data from its users. We do not require users to create an account or provide any personal information to access our services.
+
+2. Subscription Management
+Google Pay
+
+All subscriptions for FixedMatches are handled and managed by Google Pay. When you purchase a subscription, you will be redirected to Google Pay's platform, where the transaction is completed. We do not have access to any personal information, including payment details, collected by Google Pay. Please refer to Google Pay's Privacy Policy for more information on how they handle your data.
+
+3. Third-Party Services
+Google Pay Integration
+
+Since all subscription payments are processed through Google Pay, their privacy policy and terms of service govern any data you provide during the transaction. FixedMatches does not receive or store any information from these transactions.
+
+4. Data Security
+Our Commitment
+
+Even though FixedMatches does not collect any personal data, we are committed to ensuring the security of our app and protecting any information that may be indirectly associated with the usage of our services. We use industry-standard security measures to maintain the integrity of our platform.
+
+5. Your Privacy Rights
+General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA)
+
+FixedMatches respects your privacy rights under the GDPR, CCPA, and other applicable laws. Since we do not collect any personal data, there is no data to access, rectify, or delete. If you have any concerns about privacy, you can contact us using the details provided below.
+
+6. Changes to This Privacy Policy
+Updates and Modifications
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page, and the effective date will be updated accordingly.
+
+7. Contact Us
+Inquiries and Concerns
+
+If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
+
+Email: asitwas5173@gmail.com
+
+Thank you for using FixedMatches. We value your trust and are committed to protecting your privacy.
